@@ -1,0 +1,33 @@
+2020-01-18 17:46:01 INFO  JavaLog4j:22 - -info-
+2020-01-18 17:46:54 DEBUG JavaLog4j:21 - -xx-
+2020-01-18 17:46:54 INFO  JavaLog4j:22 - -info-
+2020-01-18 17:52:05 DEBUG JavaLog4j:22 - -xx-
+2020-01-18 17:52:05 INFO  JavaLog4j:23 - -info-
+2020-01-18 17:52:05 ERROR JavaLog4j:28 - catch error
+java.lang.ArithmeticException: / by zero
+	at com.mycompany.javalog4j.JavaLog4j.main(JavaLog4j.java:26)
+2020-01-18 18:02:56 DEBUG JavaLog4j:22 - -xx-
+2020-01-18 18:02:56 INFO  JavaLog4j:23 - -info-
+2020-01-18 18:02:56 ERROR JavaLog4j:28 - catch error
+java.lang.ArithmeticException: / by zero
+	at com.mycompany.javalog4j.JavaLog4j.main(JavaLog4j.java:26)
+2020-01-18 18:03:55 DEBUG JavaLog4j:22 - -xx-
+2020-01-18 18:03:55 INFO  JavaLog4j:23 - -info-
+2020-01-18 18:03:55 ERROR JavaLog4j:28 - catch error
+java.lang.ArithmeticException: / by zero
+	at com.mycompany.javalog4j.JavaLog4j.main(JavaLog4j.java:26)
+2020-01-18 18:13:44 DEBUG JavaLog4j:22 - -xx-
+2020-01-18 18:13:44 INFO  JavaLog4j:23 - -info-
+2020-01-18 18:13:44 ERROR JavaLog4j:28 - catch error
+java.lang.ArithmeticException: / by zero
+	at com.mycompany.javalog4j.JavaLog4j.main(JavaLog4j.java:26)
+2020-01-19 11:14:14 DEBUG JavaLog4j:22 - -xx-
+2020-01-19 11:14:14 INFO  JavaLog4j:23 - -info-
+2020-01-19 11:14:14 ERROR JavaLog4j:28 - catch error
+java.lang.ArithmeticException: / by zero
+	at com.mycompany.javalog4j.JavaLog4j.main(JavaLog4j.java:26)
+2020-01-21 22:45:48 DEBUG JavaLog4j:22 - -xx-
+2020-01-21 22:45:48 INFO  JavaLog4j:23 - -info-
+2020-01-21 22:45:48 ERROR JavaLog4j:28 - catch error
+java.lang.ArithmeticException: / by zero
+	at com.mycompany.javalog4j.JavaLog4j.main(JavaLog4j.java:26)
